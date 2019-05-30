@@ -26,7 +26,7 @@ Any noncommercial purpose is a permitted purpose.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is a permitted purpose, even if that use involves occasional arguably commercial uses.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is for a permitted purpose, even if that use involves occasional uses for arguably commercial purposes.
 
 ## Fair Use
 
