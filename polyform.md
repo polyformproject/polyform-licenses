@@ -42,7 +42,7 @@ It is a permitted purpose to evaluate whether the software suits a particular ap
 
 ## IB: Internal Business Use
 
-It is a permitted purpose to use the software for the internal business operations of you and your company.
+It is a permitted purpose to use the software for the internal business operations of your company.
 
 ## No Other Rights
 
