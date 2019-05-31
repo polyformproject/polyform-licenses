@@ -1,5 +1,7 @@
 # Polyform Project License Language
 
+_Note to Reviewers:  The Polyform Project will publish a suite of licenses, akin to Creative Commons' BY, BY-SA, NC, NC-SA, and so on. The sections below with two-letter codes in their headings, like PC and CL, will appear only in corresponding licenses and will not be marked with two-letter codes. The "base" noncommercial license will not include any of the sections with two-letter codes_ 
+
 ## Acceptance
 
 In order to get any license under these terms, you must agree to their rules.  Those rules are both obligations under the agreement and conditions to all the licenses granted to you under these terms.  The licensor may not revoke any licenses granted under these terms, but your licenses may end if you break any rule of these terms.
@@ -27,6 +29,10 @@ Any noncommercial purpose is a permitted purpose.
 ## Noncommercial Organizations
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is a permitted purpose, even if that use involves occasional arguably commercial uses.
+
+_Note to Reviewers:  We are particularly interested in feedback from noncommercial organizations on whether this "safe harbor" is sufficient for whitelisting Polyformlicensed software by policy._
+
+_Not to Reviewers:  We are also interested in feedback about whether we should also include a "safe harbor" for personal uses._
 
 ## Fair Use
 
