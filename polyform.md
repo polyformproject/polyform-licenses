@@ -32,7 +32,7 @@ Use by any charitable organization, educational institution, public research org
 
 _Note to Reviewers:  We are particularly interested in feedback from noncommercial organizations on whether this "safe harbor" is sufficient for whitelisting Polyformlicensed software by policy._
 
-_Not to Reviewers:  We are also interested in feedback about whether we should also include a "safe harbor" for personal uses._
+_Note to Reviewers:  We are also interested in feedback about whether we should also include a "safe harbor" for personal uses._
 
 ## Fair Use
 
