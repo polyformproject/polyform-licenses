@@ -40,7 +40,7 @@ You may have other "fair use" rights for the software under the law.  These term
 
 ## SB: Small Business
 
-It is a permitted purpose to use the software for the benefit of your company if it has less than 100 total employees and individual independent contractors, and less than 1,000,000 USD total revenue in the prior tax year.
+It is a permitted purpose to use the software for the benefit of your company if it has fewer than 100 total employees and individual independent contractors, and less than 1,000,000 USD total revenue in the prior tax year.
 
 ## FT: Free Trial
 
