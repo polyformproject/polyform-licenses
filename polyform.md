@@ -8,7 +8,7 @@ In order to get any license under these terms, you must agree to their rules.  T
 
 ## Copyright License
 
-The licensor grants you a copyright license for the software, to do everything you might do with the software that would infringe the licensor's copyright in it, for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
+The licensor grants you a copyright license for the software, to do everything you might do with the software that would otherwise infringe the licensor's copyright in it, for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
 
 ## DL: Distribution License
 
@@ -20,7 +20,7 @@ The licensor grants you an additional copyright license to make changes and new 
 
 ## Patent License
 
-The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by doing anything you are licensed to do under these terms.
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would otherwise infringe by doing anything you are licensed to do under these terms.
 
 ## Noncommercial Purposes
 
