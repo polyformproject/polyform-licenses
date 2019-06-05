@@ -12,7 +12,7 @@ The licensor grants you a copyright license for the software, to do everything y
 
 ## DL: Distribution License
 
-The licensor grants you an additional copyright license to distribute copies of the software.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or a link to their text on <https://polyformproject.org>.
+The licensor grants you an additional copyright license to distribute copies of the software, and if these terms grant you an additional license to make changes and new works, to distribute your changes and new works, as well.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or a link to their text on <https://polyformproject.org>.
 
 ## CL: Changes and New Works License
 
