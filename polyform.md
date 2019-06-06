@@ -28,7 +28,7 @@ Any noncommercial purpose is a permitted purpose.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is a permitted purpose, even if that use involves occasional arguably commercial uses.
+Making, using, selling, copying, and redistributing, this work and derivative works, by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is a permitted purpose, regardless of the source of funding of the work or obligations resulting from the funding.
 
 _Note to Reviewers:  We are particularly interested in feedback from noncommercial organizations on whether this "safe harbor" is sufficient for whitelisting Polyformlicensed software by policy._
 
