@@ -64,7 +64,7 @@ If you or your company makes any written claim alleging that the software infrin
 
 ## Violations
 
-If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 29 days of receiving the notice.  If you do not stop violating these terms within that time, your agreement and all licenses for the software granted to you under these terms end immediately.  This excuse section is only available to you once.
+If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 29 days of receiving the notice.  If you do not stop violating these terms within that time, your agreement under these terms ends immediately, and your licenses for the software end with it.  This excuse section is only available to you once.
 
 ## Definitions
 
