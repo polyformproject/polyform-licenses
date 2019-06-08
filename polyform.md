@@ -64,7 +64,7 @@ If you or your company makes any written claim alleging that the software infrin
 
 ## Excuse
 
-Breaking any rule of this license in any way, large or small, ends all the licenses granted to you under these terms immediately.  However, if you receive written notice that you have broken any rule of these terms, you can keep your licenses by coming fully into compliance with these terms within 30 days of receiving the notice.  If you do not come fully into compliance by that time, all licenses for the software granted to you under these terms end immediately.  This excuse is only available to you once.
+If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 30 days of receiving the notice.  If you do not stop violating these terms within that time, all licenses for the software granted to you under these terms end immediately.  This excuse section is only available to you once.
 
 ## Definitions
 
