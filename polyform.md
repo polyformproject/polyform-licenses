@@ -62,9 +62,9 @@ If you or your company makes any written claim alleging that the software infrin
 
 ***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use, distribution, or nature of the software, under any kind of legal claim.***
 
-## Excuse
+## Violations
 
-If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 30 days of receiving the notice.  If you do not stop violating these terms within that time, all licenses for the software granted to you under these terms end immediately.  This excuse section is only available to you once.
+If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 29 days of receiving the notice.  If you do not stop violating these terms within that time, all licenses for the software granted to you under these terms end immediately.  This excuse section is only available to you once.
 
 ## Definitions
 
