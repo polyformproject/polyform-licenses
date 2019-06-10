@@ -4,7 +4,7 @@ _Note to Reviewers:  The Polyform Project will publish a suite of licenses, akin
 
 ## Acceptance
 
-In order to get any license under these terms, you must agree to their rules.  Those rules are both obligations under the agreement and conditions to all the licenses granted to you under these terms.  The licensor may not revoke any licenses granted under these terms, but your licenses may end if you break any rule of these terms.
+In order to get any license under these terms, you must agree to their rules.  Those rules are both obligations under your agreement and conditions to all the licenses granted to you under these terms.  The licensor may not end that agreement, or revoke any licenses granted under it, except per [Violations](#violations).
 
 ## Copyright License
 
@@ -62,9 +62,9 @@ If you or your company makes any written claim alleging that the software infrin
 
 ***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use, distribution, or nature of the software, under any kind of legal claim.***
 
-## Excuse
+## Violations
 
-If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 30 days of receiving the notice.  If you do not stop violating these terms within that time, all licenses for the software granted to you under these terms end immediately.  This excuse section is only available to you once.
+If you are notified in writing that you have broken any rule of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 29 days of receiving the notice.  If you do not stop violating these terms within that time, your agreement under these terms ends immediately, and your licenses for the software end with it.  This excuse section is only available to you once.
 
 ## Definitions
 
