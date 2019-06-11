@@ -50,6 +50,10 @@ It is a permitted purpose to evaluate whether the software suits a particular ap
 
 It is a permitted purpose to use the software for the internal business operations of you and your company.
 
+## NX: Noncompete
+
+It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
+
 ## No Other Rights
 
 These terms do not allow you to sublicense or transfer any licenses granted under these terms to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
