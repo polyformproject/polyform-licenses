@@ -72,4 +72,4 @@ The **licensor** is the individual or entity giving this license, and the **soft
 
 **You** refers to the individual or entity agreeing to and receiving licenses under these terms.
 
-**Your company** is any legal entity, sole proprietorship, or other group that you work for, plus all entities that have control over, are under the control of, or are under common control with that group.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
