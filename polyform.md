@@ -52,7 +52,7 @@ It is a permitted purpose to use the software for the internal business operatio
 
 ## NX: Noncompete
 
-It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
+It is not a permitted purpose for you to make available to other any offering that competes with the software.  To compete means that you market your offering as an economic substitute for the software, whether or not you provide it free of charge. 
 
 ## No Other Rights
 
