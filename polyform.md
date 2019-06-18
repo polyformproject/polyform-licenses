@@ -60,7 +60,7 @@ These terms do not allow you to sublicense or transfer any licenses granted unde
 
 ## Patent Defense
 
-If you or your company makes any written claim alleging that the software infringes or contributes to infringement of a patent, your patent license granted under these terms ends immediately.
+If you or your company makes any written claim alleging that the software infringes or contributes to infringement of a patent, your patent license for the software granted under these terms ends immediately.
 
 ## No Liability
 
