@@ -60,13 +60,17 @@ Object.keys(variants).forEach(function (suffix) {
 
 function writeVariant (stream, suffix, options) {
   var skipNext = false
+  // Pipe through fmt -60 -u.
+  var fmt = childProcess.spawn('fmt', ['-60', '-u'])
+  fmt.stdout.pipe(stream)
+  var input = fmt.stdin
   contentLines.forEach(function (line) {
     if (skipNext) {
       skipNext = false
       return
     }
     if (line.startsWith('# ')) {
-      stream.write(
+      input.write(
         '# Polyform ' + suffix + ' License\n\n' + version
       )
     } else if (line.startsWith('## ')) {
@@ -77,7 +81,7 @@ function writeVariant (stream, suffix, options) {
         var heading = match[2]
         // ... if it's part of the variant, include it.
         if (options.includes(code)) {
-          stream.write('\n\n## ' + heading)
+          input.write('\n\n## ' + heading)
         // ... otherwise skip both the heading and th
         // text that follows.
         } else {
@@ -86,11 +90,11 @@ function writeVariant (stream, suffix, options) {
       // If the heading does not have a two-letter code,
       // write it out.
       } else {
-        stream.write('\n\n' + line)
+        input.write('\n\n' + line)
       }
     } else {
-      stream.write('\n\n' + line)
+      input.write('\n\n' + line)
     }
   })
-  stream.end('\n')
+  input.end('\n')
 }
