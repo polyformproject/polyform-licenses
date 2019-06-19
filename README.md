@@ -12,17 +12,14 @@ Much as [Creative Commons](https://creativecommons.org) offers a [suite of licen
 
 Polyform's base license will be a limited, noncommercial license.  Variants will add sections to that base license:
 
-| Variant          | [Changes] | [Distrib.] | [Trial] | [Internal] | [SMB] | [Noncomp.] |
-| ---------------- | --------- | ---------- | ------- | ---------- | ----- | ---------- |
-| `Polyform`       |           |            |         |            |       |            |
-| `Polyform-CL`    | Yes       |            |         |            |       |            |
-| `Polyform-CL-DL` | Yes       | Yes        |         |            |       |            |
-| `Polyform-DL`    |           | Yes        |         |            |       |            |
-| `Polyform-FT`    |           |            | Yes     |            |       |            |
-| `Polyform-IB`    |           |            |         | Yes        |       |            |
-| `Polyform-NX`    |           |            |         |            |       | Yes        |
-| `Polyform-NX-IB` |           |            |         | Yes        |       | Yes        |
-| `Polyform-SB`    |           |            |         |            | Yes   |            |
+| Variant                  | [Changes] | [Distrib.] | [Trial] | [Internal] | [SMB] | [Noncomp.] |
+| ------------------------ | --------- | ---------- | ------- | ---------- | ----- | ---------- |
+| `Polyform-Strict`        |           |            |         |            |       |            |
+| `Polyform-Noncommercial` | Yes       | Yes        |         |            |       |            |
+| `Polyform-Trial`         | Yes       | Yes        | Yes     |            |       |            |
+| `Polyform-Internal`      | Yes       | Yes        |         | Yes        |       |            |
+| `Polyform-Small`         | Yes       | Yes        |         |            | Yes   |            |
+| `Polyform-Noncompete`    | Yes       | Yes        |         |            |       | Yes        |
 
 [Distrib.]: ./polyform.md#dl-distribution-license
 [Changes]: ./polyform.md#cl-changes-and-new-works-license
