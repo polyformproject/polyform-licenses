@@ -20,7 +20,7 @@ The licensor grants you an additional copyright license to make changes and new 
 
 ## Patent License
 
-The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would otherwise infringe by doing anything you are licensed to do under these terms.
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
 ## Noncommercial Purposes
 
@@ -28,7 +28,7 @@ Any noncommercial purpose is a permitted purpose.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is for a permitted purpose, even if that use involves occasional uses for arguably commercial purposes.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose, even if that use involves occasional uses for arguably commercial purposes.
 
 _Note to Reviewers:  We are particularly interested in feedback from noncommercial organizations on whether this "safe harbor" is sufficient for whitelisting Polyformlicensed software by policy._
 
@@ -40,15 +40,15 @@ You may have other "fair use" rights for the software under the law.  These term
 
 ## SB: Small Business
 
-It is a permitted purpose to use the software for the benefit of your company if it has fewer than 100 total employees and individual independent contractors, and less than 1,000,000 USD total revenue in the prior tax year.
+Use of the software for the benefit of your company is use for a permitted purpose if your company has less than 100 total employees and individual independent contractors, and less than 1,000,000 USD total revenue in the prior tax year.
 
 ## FT: Free Trial
 
-It is a permitted purpose to evaluate whether the software suits a particular application, on behalf of you or your company, for less than 32 consecutive calendar days.
+Evaluating whether the software suits a particular application, on behalf of you or your company, for less than 32 consecutive calendar days is a permitted purpose.
 
 ## IB: Internal Business Use
 
-It is a permitted purpose to use the software for the internal business operations of your company.
+Use of the software for the internal business operations of you and your company is use for a permitted purpose.
 
 ## NX: Noncompete
 
@@ -64,7 +64,7 @@ If you or your company makes any written claim alleging that the software infrin
 
 ## No Liability
 
-***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use, distribution, or nature of the software, under any kind of legal claim.***
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
 
 ## Violations
 
@@ -77,3 +77,5 @@ The **licensor** is the individual or entity giving this license, and the **soft
 **You** refers to the individual or entity agreeing to and receiving licenses under these terms.
 
 **Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
+**Use** means anything you do with the software requiring a copyright or patent license.
