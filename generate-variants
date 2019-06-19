@@ -1,0 +1,96 @@
+#!/usr/bin/env node
+// Create the build directory and write all license variants
+// to that directory.
+var childProcess = require('child_process')
+var fs = require('fs')
+var path = require('path')
+
+// Read the source Markdown file.
+var source = fs.readFileSync('polyform.md', 'utf8')
+
+// Filter out notes and empty lines.
+var contentLines = source
+  .split('\n')
+  .filter(function (line) {
+    return (
+      line.trim().length !== 0 &&
+      !line.includes('Note to Reviewers')
+    )
+  })
+
+// Create the build directory.
+try {
+  fs.mkdirSync('build')
+} catch (error) {
+  if (error.code !== 'EEXIST') throw error
+}
+
+// Determine version.
+var version = 'Development Draft'
+try {
+  childProcess.execSync('git diff-index --quiet HEAD')
+  var tag = childProcess.execSync(
+    'git describe --exact-match --tags 2>/dev/null'
+  )
+  if (tag.startsWith('v')) {
+    version = 'Version ' + tag.slice(1)
+  }
+} catch (error) {
+  // pass
+}
+
+// Generate variants.
+var variants = {
+  'Internal': [ 'CL', 'DL', 'IB' ],
+  'Noncommercial': [ 'CL', 'DL' ],
+  'Noncompete': [ 'CL', 'DL', 'NX' ],
+  'Small': [ 'CL', 'DL', 'SB' ],
+  'Strict': [],
+  'Trial': [ 'CL', 'DL', 'FT' ]
+}
+
+Object.keys(variants).forEach(function (suffix) {
+  var options = variants[suffix]
+  var fileName = path.join(
+    __dirname, 'build', 'Polyform-' + suffix + '.md'
+  )
+  var stream = fs.createWriteStream(fileName)
+  writeVariant(stream, suffix, options)
+})
+
+function writeVariant (stream, suffix, options) {
+  var skipNext = false
+  contentLines.forEach(function (line) {
+    if (skipNext) {
+      skipNext = false
+      return
+    }
+    if (line.startsWith('# ')) {
+      stream.write(
+        '# Polyform ' + suffix + ' License\n\n' + version
+      )
+    } else if (line.startsWith('## ')) {
+      // If the <h2> has a two-letter code...
+      var match = /^## ([A-Z]{2}): (.+)$/.exec(line)
+      if (match) {
+        var code = match[1]
+        var heading = match[2]
+        // ... if it's part of the variant, include it.
+        if (options.includes(code)) {
+          stream.write('\n\n## ' + heading)
+        // ... otherwise skip both the heading and th
+        // text that follows.
+        } else {
+          skipNext = true
+        }
+      // If the heading does not have a two-letter code,
+      // write it out.
+      } else {
+        stream.write('\n\n' + line)
+      }
+    } else {
+      stream.write('\n\n' + line)
+    }
+  })
+  stream.end('\n')
+}
