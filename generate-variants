@@ -71,8 +71,19 @@ function writeVariant (stream, suffix, options) {
     }
     if (line.startsWith('# ')) {
       input.write(
-        '# Polyform ' + suffix + ' License\n\n' + version
+        '# Polyform ' + suffix + ' License ' + version
       )
+    } else if (line.includes('{License URL}')) {
+      input.write('\n\n')
+      if (version.toLowerCase().includes('draft')) {
+        input.write('https://github.com/polyformproject/polyform-licenses/')
+      } else {
+        input.write(
+          'https://polyformproject.org/licenses/' +
+          suffix.toLowerCase() +
+          '/' + version.trim()
+        )
+      }
     } else if (line.startsWith('## ')) {
       // If the <h2> has a two-letter code...
       var match = /^## ([A-Z]{2}): (.+)$/.exec(line)
