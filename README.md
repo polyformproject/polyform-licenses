@@ -27,3 +27,11 @@ Polyform's base license will be a limited, noncommercial license.  Variants will
 [Internal]: ./polyform.md#ib-internal-business-use
 [SMB]: ./polyform.md#sb-small-business
 [Noncomp.]: ./polyform.md#noncompete
+
+## License
+
+Each contributor licenses you to do everything with Polyform licenses that would otherwise infringe that contributor's copyright in it.
+
+If you make changes to a Polyform license, you must remove all mention of "Polyform" and polyformproject.org, as well.
+
+As far as the law allows, Polyform licenses come as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the licenses or their use, for any kind of legal claim.
