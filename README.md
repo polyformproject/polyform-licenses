@@ -35,3 +35,7 @@ Each contributor licenses you to do everything with Polyform licenses that would
 If you make changes to a Polyform license, you must remove all mention of "Polyform" and polyformproject.org, as well.
 
 As far as the law allows, Polyform licenses come as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the licenses or their use, for any kind of legal claim.
+
+## Trademark
+
+Polyform Project applied to register the trademark `POLYFORM` in the United States on April 24, 2019, and was assigned serial number [88400646](https://tsdr.uspto.gov/#caseNumber=88400646&caseType=SERIAL_NO&searchType=statusSearch).
