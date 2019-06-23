@@ -6,7 +6,7 @@ _Note to Reviewers:  The Polyform Project will publish a suite of licenses, akin
 
 ## Acceptance
 
-In order to get any license under these terms, you must agree to their rules.  Those rules are both obligations under your agreement and conditions to all the licenses granted to you under these terms.  The licensor may not end that agreement, or revoke any licenses granted under it, except per [Violations](#violations).
+In order to get any license under these terms, you must agree to their rules.  Those rules are both obligations under your agreement and conditions to all the licenses granted to you under these terms.  The licensor may not end that agreement, or revoke any licenses granted under it, except per [Violations](#violations) and [Patent Defense](#patent-defence).
 
 ## Copyright License
 
