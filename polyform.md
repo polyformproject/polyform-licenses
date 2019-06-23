@@ -1,5 +1,7 @@
 # Polyform Project License Language
 
+{License URL}
+
 _Note to Reviewers:  The Polyform Project will publish a suite of licenses, akin to Creative Commons' BY, BY-SA, NC, NC-SA, and so on. The sections below with two-letter codes in their headings, like PC and CL, will appear only in corresponding licenses and will not be marked with two-letter codes. The "base" noncommercial license will not include any of the sections with two-letter codes_ 
 
 ## Acceptance
@@ -12,7 +14,7 @@ The licensor grants you a copyright license for the software, to do everything y
 
 ## DL: Distribution License
 
-The licensor grants you an additional copyright license to distribute copies of the software, and if these terms grant you an additional license to make changes and new works, to distribute your changes and new works, as well.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or a link to their text on <https://polyformproject.org>.
+The licensor grants you an additional copyright license to distribute copies of the software, and if these terms grant you an additional license to make changes and new works, to distribute your changes and new works, as well.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or the URL for its text above.
 
 ## CL: Changes and New Works License
 
