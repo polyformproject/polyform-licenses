@@ -28,13 +28,15 @@ The licensor grants you a patent license for the software that covers patent cla
 
 Any noncommercial purpose is a permitted purpose.
 
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is for a permitted purpose.
+
 ## Noncommercial Organizations
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose, regardless of the source of funding or obligations resulting from the funding.
 
 _Note to Reviewers:  We are particularly interested in feedback from noncommercial organizations on whether this "safe harbor" is sufficient for whitelisting Polyformlicensed software by policy._
-
-_Note to Reviewers:  We are also interested in feedback about whether we should also include a "safe harbor" for personal uses._
 
 ## Fair Use
 
