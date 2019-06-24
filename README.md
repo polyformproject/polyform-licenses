@@ -26,7 +26,7 @@ Polyform's base license will be a limited, noncommercial license.  Variants will
 [Trial]: ./polyform.md#ft-free-trial
 [Internal]: ./polyform.md#ib-internal-business-use
 [SMB]: ./polyform.md#sb-small-business
-[Noncomp.]: ./polyform.md#noncompete
+[Noncomp.]: ./polyform.md#nx-noncompete
 
 ## License
 
