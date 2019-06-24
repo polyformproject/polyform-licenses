@@ -38,6 +38,7 @@ try {
 } catch (error) {
   // pass
 }
+if (process.env.VERSION) version = process.env.VERSION
 
 // Generate variants.
 var variants = {
