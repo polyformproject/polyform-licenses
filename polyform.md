@@ -14,7 +14,7 @@ The licensor grants you a copyright license for the software, to do everything y
 
 ## DL: Distribution License
 
-The licensor grants you an additional copyright license to distribute copies of the software.  If these terms grant you an additional license to make changes and new works, your license to distribute covers distributing your changes and new works.  However, if these terms allow you to make changes and new works for internal business operations, your license to distribute does not cover distributing those changes and new works.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or the URL for its text above, as well the text of any notice lines beginning with `Required Licensing Information:` that the licensor provided with the software, such as:
+The licensor grants you an additional copyright license to distribute copies of the software.  If these terms grant you an additional license to make changes and new works, your license to distribute covers distributing your changes and new works.  However, if these terms allow you to make changes and new works for internal business operations, your license to distribute does not cover distributing those changes and new works.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or the URL for its text above, as well the text of any text lines beginning with `Required Licensing Information:` that the licensor provided with the software, such as:
 
 > Required Licensing Information: Copyright Example, Inc. (http://example.com)
 
