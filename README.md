@@ -34,7 +34,7 @@ Each contributor licenses you to do everything with Polyform licenses that would
 
 If you make changes to a Polyform license, you must remove all mention of "Polyform" and polyformproject.org, as well.
 
-As far as the law allows, Polyform licenses come as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the licenses or their use, for any kind of legal claim.
+***As far as the law allows, Polyform licenses come as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the licenses or their use, for any kind of legal claim.***
 
 ## Trademark
 
