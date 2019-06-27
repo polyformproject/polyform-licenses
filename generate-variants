@@ -60,16 +60,12 @@ Object.keys(variants).forEach(function (suffix) {
 })
 
 function writeVariant (stream, suffix, options) {
-  var skipNext = false
+  var skipContent = false
   // Pipe through fmt -60 -u.
-  var fmt = childProcess.spawn('fmt', ['-60', '-u'])
+  var fmt = childProcess.spawn('fmt', ['-65', '-u'])
   fmt.stdout.pipe(stream)
   var input = fmt.stdin
   contentLines.forEach(function (line) {
-    if (skipNext) {
-      skipNext = false
-      return
-    }
     if (line.startsWith('# ')) {
       input.write(
         '# Polyform ' + suffix + ' License ' + version
@@ -86,6 +82,7 @@ function writeVariant (stream, suffix, options) {
         )
       }
     } else if (line.startsWith('## ')) {
+      skipContent = false
       // If the <h2> has a two-letter code...
       var match = /^## ([A-Z]{2}): (.+)$/.exec(line)
       if (match) {
@@ -97,7 +94,7 @@ function writeVariant (stream, suffix, options) {
         // ... otherwise skip both the heading and th
         // text that follows.
         } else {
-          skipNext = true
+          skipContent = true
         }
       // If the heading does not have a two-letter code,
       // write it out.
@@ -105,7 +102,7 @@ function writeVariant (stream, suffix, options) {
         input.write('\n\n' + line)
       }
     } else {
-      input.write('\n\n' + line)
+      if (!skipContent) input.write('\n\n' + line)
     }
   })
   input.end('\n')
