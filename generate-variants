@@ -68,7 +68,7 @@ function writeVariant (stream, suffix, options) {
   contentLines.forEach(function (line) {
     if (line.startsWith('# ')) {
       input.write(
-        '# Polyform ' + suffix + ' License ' + version
+        '# Polyform ' + suffix + ' License ' + version.trim()
       )
     } else if (line.includes('{License URL}')) {
       input.write('\n\n')
@@ -78,7 +78,7 @@ function writeVariant (stream, suffix, options) {
         input.write(
           'https://polyformproject.org/licenses/' +
           suffix.toLowerCase() +
-          '/' + version.trim()
+          '/' + version.trim().replace(/\./g, '-')
         )
       }
     } else if (line.startsWith('## ')) {
