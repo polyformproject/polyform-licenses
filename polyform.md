@@ -18,6 +18,12 @@ The licensor grants you an additional copyright license to distribute copies of 
 
 > Required Notice: Copyright Example, Inc. (http://example.com)
 
+On POSIX systems, you can find these lines with a command like:
+
+```sh
+find . -type f -exec grep "^[[:space:]]*Required Notice:" {} +
+```
+
 ## CL: Changes and New Works License
 
 The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
