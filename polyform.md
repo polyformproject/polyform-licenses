@@ -70,13 +70,13 @@ These terms do not allow you to sublicense or transfer any licenses granted unde
 
 If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately.  If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
 
-## No Liability
-
-***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
-
 ## Violations
 
 If you are notified in writing that you have broken any of these terms, you can keep the licenses granted to you under these terms by coming fully into compliance with these terms within 29 days of receiving the notice.  If you do not stop violating these terms within that time, your agreement under these terms ends immediately, and your licenses for the software end with it.  This excuse section is only available to you once.
+
+## No Liability
+
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
 
 ## Definitions
 
