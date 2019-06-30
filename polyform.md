@@ -4,7 +4,7 @@
 
 ## Acceptance
 
-In order to get any license under these terms, you must agree to them.  These terms are both obligations under your agreement and conditions to all the licenses granted to you for the software under these terms.  The licensor may not end your agreement, or revoke any licenses granted under it, except per [Violations](#violations) and [Patent Defense](#patent-defense).
+In order to get any license under these terms, you must agree to them.  These terms are both obligations under your agreement and conditions to all your licenses.  The licensor may not end your agreement, or revoke any of your licenses, except per [Violations](#violations) and [Patent Defense](#patent-defense).
 
 ## Copyright License
 
