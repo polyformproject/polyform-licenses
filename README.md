@@ -17,7 +17,7 @@ Polyform's base license will be a limited, noncommercial license.  Variants will
 | `Polyform-Strict`        |           |            |         |            |       |            |
 | `Polyform-Noncommercial` | Yes       | Yes        |         |            |       |            |
 | `Polyform-Trial`         | Yes       | Yes        | Yes     |            |       |            |
-| `Polyform-Internal`      | Yes       | Yes        |         | Yes        |       |            |
+| `Polyform-Internal`      | Yes       |            |         | Yes        |       |            |
 | `Polyform-Small`         | Yes       | Yes        |         |            | Yes   |            |
 | `Polyform-Noncompete`    | Yes       | Yes        |         |            |       | Yes        |
 

@@ -39,7 +39,7 @@ if (process.env.VERSION) version = process.env.VERSION
 
 // Generate variants.
 var variants = {
-  'Internal': [ 'CL', 'DL', 'IB' ],
+  'Internal': [ 'CL', 'IB' ],
   'Noncommercial': [ 'CL', 'DL' ],
   'Noncompete': [ 'CL', 'DL', 'NX' ],
   'Small': [ 'CL', 'DL', 'SB' ],
