@@ -66,7 +66,7 @@ It is not a permitted purpose to provide any offering that competes with the sof
 
 ## No Other Rights
 
-These terms do not allow you to sublicense or transfer any licenses granted under these terms to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
 
 ## Patent Defense
 
