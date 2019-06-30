@@ -74,7 +74,7 @@ If you make any written claim that the software infringes or contributes to infr
 
 ## Violations
 
-If you are notified in writing that you have violated any of these terms, your agreement under these terms can continue, along with all licenses granted under it, if you come into full compliance with these terms, and take practical steps to correct past violations, within 29 days of receiving the notice.  If you do not meet that deadline, your agreement ends immediately, and your licenses for the software end with it.  This excuse is only available to you once.
+If you are notified in writing that you have violated any of these terms, your agreement under these terms can nonetheless continue if you come into full compliance, and take practical steps to correct past violations, within 29 days of receiving notice.  Otherwise, your agreement and your licenses end immediately.  This opportunity is only available to you once.
 
 ## No Liability
 
