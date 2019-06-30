@@ -84,4 +84,6 @@ The **licensor** is the individual or entity giving this license, and the **soft
 
 **Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
 
+**Your licenses** are all the licenses granted to you for the software under these terms.
+
 **Use** means anything you do with the software requiring a copyright or patent license granted under these terms.
