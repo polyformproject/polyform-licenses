@@ -52,6 +52,7 @@ var variants = {
 
 Object.keys(variants).forEach(function (suffix) {
   var options = variants[suffix]
+  if (options.includes('DL')) options.push('NO')
   var fileName = path.join(
     __dirname, 'build', 'Polyform-' + suffix + '.md'
   )
