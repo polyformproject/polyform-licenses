@@ -46,7 +46,7 @@ _Note to Reviewers:  We are particularly interested in feedback from noncommerci
 
 ## Fair Use
 
-You may have other "fair use" rights for the software under the law.  These terms do not limit them.
+You may have "fair use" rights for the software under the law.  These terms do not limit them.
 
 ## SB: Small Business
 
