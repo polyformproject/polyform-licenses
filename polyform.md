@@ -70,7 +70,7 @@ If you make any written claim that the software infringes or contributes to infr
 
 ## Violations
 
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, this agreement can nonetheless continue if you come into full compliance, and take practical steps to correct past violations, within 29 days of receiving notice.  Otherwise, this agreement ends immediately, and your licenses end with it.
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 29 days of receiving notice.  Otherwise, your licenses end immediately.
 
 ## No Liability
 
