@@ -4,7 +4,7 @@
 
 ## Acceptance
 
-In order to get any license under these terms, you must agree to them, as strict obligations under that agreement and conditions to all your licenses.
+In order to get any license under these terms, you must agree to them, both as strict obligations under that agreement and as conditions to all your licenses.
 
 ## Copyright License
 
