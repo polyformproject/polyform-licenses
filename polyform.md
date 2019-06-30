@@ -2,8 +2,6 @@
 
 {License URL}
 
-_Note to Reviewers:  The Polyform Project will publish a suite of licenses, akin to Creative Commons' BY, BY-SA, NC, NC-SA, and so on. The sections below with two-letter codes in their headings, like PC and CL, will appear only in corresponding licenses and will not be marked with two-letter codes. The "base" noncommercial license will not include any of the sections with two-letter codes_ 
-
 ## Acceptance
 
 In order to get any license under these terms, you must agree to them.  These terms are both obligations under your agreement and conditions to all the licenses granted to you for the software under these terms.  The licensor may not end your agreement, or revoke any licenses granted under it, except per [Violations](#violations) and [Patent Defense](#patent-defense).
@@ -41,8 +39,6 @@ Personal use for research, experiment, and testing for the benefit of public kno
 ## Noncommercial Organizations
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose, regardless of the source of funding or obligations resulting from the funding.
-
-_Note to Reviewers:  We are particularly interested in feedback from noncommercial organizations on whether this "safe harbor" is sufficient for whitelisting Polyformlicensed software by policy._
 
 ## Fair Use
 

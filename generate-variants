@@ -12,10 +12,7 @@ var source = fs.readFileSync('polyform.md', 'utf8')
 var contentLines = source
   .split('\n')
   .filter(function (line) {
-    return (
-      line.trim().length !== 0 &&
-      !line.includes('Note to Reviewers')
-    )
+    return line.trim().length !== 0
   })
 
 // Create the build directory.
