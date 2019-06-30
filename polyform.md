@@ -8,7 +8,7 @@ In order to get any license under these terms, you must agree to them.  These te
 
 ## Copyright License
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it, for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
 
 ## DL: Distribution License
 
