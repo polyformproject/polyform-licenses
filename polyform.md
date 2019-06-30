@@ -36,7 +36,7 @@ Any noncommercial purpose is a permitted purpose.
 
 ## Personal Uses
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is for a permitted purpose.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
 
 ## Noncommercial Organizations
 
@@ -54,7 +54,7 @@ Use of the software for the benefit of your company is use for a permitted purpo
 
 ## FT: Free Trial
 
-Evaluating whether the software suits a particular application, on behalf of you or your company, for less than 32 consecutive calendar days is a permitted purpose.
+Evaluating whether the software suits a particular application, on behalf of you or your company, for less than 32 consecutive calendar days is use for a permitted purpose.
 
 ## IB: Internal Business Use
 
