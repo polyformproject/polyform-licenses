@@ -59,8 +59,8 @@ Object.keys(variants).forEach(function (suffix) {
 
 function writeVariant (stream, suffix, options) {
   var skipContent = false
-  // Pipe through fmt -60 -u.
-  var fmt = childProcess.spawn('fmt', ['-64', '-u'])
+  // Pipe through fmt -65 -u.
+  var fmt = childProcess.spawn('fmt', ['-65', '-u'])
   fmt.stdout.pipe(stream)
   var input = fmt.stdin
   contentLines.forEach(function (line) {
