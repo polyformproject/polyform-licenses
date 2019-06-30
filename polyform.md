@@ -4,7 +4,7 @@
 
 ## Acceptance
 
-In order to get any license under these terms, you must agree to them.  These terms are both obligations under your agreement and conditions to all your licenses.  The licensor may not end your agreement, or revoke any of your licenses, except per [Violations](#violations) and [Patent Defense](#patent-defense).
+In order to get any license under these terms, you must agree to them, as strict obligations under your agreement and conditions to all your licenses.
 
 ## Copyright License
 
@@ -70,7 +70,7 @@ If you make any written claim that the software infringes or contributes to infr
 
 ## Violations
 
-If you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your agreement under these terms can nonetheless continue if you come into full compliance, and take practical steps to correct past violations, within 29 days of receiving notice.  Otherwise, your agreement and your licenses end immediately.  This opportunity is only available to you once.
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your agreement under these terms can nonetheless continue if you come into full compliance, and take practical steps to correct past violations, within 29 days of receiving notice.  Otherwise, your agreement ends immediately, and your licenses end with it.
 
 ## No Liability
 
@@ -78,12 +78,12 @@ If you are notified in writing that you have violated any of these terms, or don
 
 ## Definitions
 
-The **licensor** is the individual or entity giving this license, and the **software** is the software the licensor makes available under these terms.
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
 
-**You** refers to the individual or entity agreeing to and receiving licenses under these terms.
+**You** refers to the individual or entity agreeing to these terms.
 
 **Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
 
 **Your licenses** are all the licenses granted to you for the software under these terms.
 
-**Use** means anything you do with the software requiring a copyright or patent license granted under these terms.
+**Use** means anything you do with the software requiring one of your licenses.
