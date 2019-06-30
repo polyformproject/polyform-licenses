@@ -6,6 +6,10 @@
 
 In order to get any license under these terms, you must agree to them.  These terms are both obligations under your agreement and conditions to all the licenses granted to you for the software under these terms.  The licensor may not end your agreement, or revoke any licenses granted under it, except per [Violations](#violations) and [Patent Defense](#patent-defense).
 
+## No Liability
+
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
+
 ## Copyright License
 
 The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it, for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
@@ -71,10 +75,6 @@ If you make any written claim that the software infringes or contributes to infr
 ## Violations
 
 If you are notified in writing that you have violated any of these terms, your agreement under these terms can nonetheless continue if you come into full compliance, and take practical steps to correct past violations, within 29 days of receiving notice.  Otherwise, your agreement and your licenses end immediately.  This opportunity is only available to you once.
-
-## No Liability
-
-***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
 
 ## Definitions
 
