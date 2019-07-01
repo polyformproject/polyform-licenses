@@ -8,12 +8,12 @@ In order to get any license under these terms, you must agree to them as both st
 
 ## Copyright License
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose{{#CL}}.  {{#DL}}However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).{{/DL}}{{^DL}}However, you may only make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license), and you may not distribute the software.{{/DL}}{{/CL}}{{^CL}}{{#DL}}.  However, you may only distribute the software according to [Distribution License](#distribution-license), and you may not make change or new works based on the software.{{/DL}}{{^DL}}, other than distributing the software or making changes or new works based on the software.{{/DL}}{{/CL}}
 
 {{#DL}}
 ## Distribution License
 
-The licensor grants you an additional copyright license to distribute copies of the software.  If these terms grant you an additional license to make changes and new works, your license to distribute covers distributing your changes and new works.  However, if these terms allow you to make changes and new works for internal business operations, your license to distribute does not cover distributing changes and new works made for that purpose.
+The licensor grants you an additional copyright license to distribute copies of the software.{{#CL}}  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).{{/CL}}{{#IB}}  However, your license to distribute does not cover distributing changes or new works permitted by [Internal Business Use](#internal-business-use).{{/IB}}
 {{/DL}}
 
 {{#NO}}
