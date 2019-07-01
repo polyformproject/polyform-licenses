@@ -3,17 +3,11 @@
 // to that directory.
 var childProcess = require('child_process')
 var fs = require('fs')
+var mustache = require('mustache')
 var path = require('path')
 
 // Read the source Markdown file.
 var source = fs.readFileSync('polyform.md', 'utf8')
-
-// Filter out notes and empty lines.
-var contentLines = source
-  .split('\n')
-  .filter(function (line) {
-    return line.trim().length !== 0
-  })
 
 // Create the build directory.
 try {
@@ -50,57 +44,36 @@ var variants = {
 Object.keys(variants).forEach(function (suffix) {
   var options = variants[suffix]
   if (options.includes('DL')) options.push('NO')
+  var view = {
+    URL: version.toLowerCase().includes('draft')
+      ? 'https://github.com/polyformproject/polyform-licenses/'
+      : 'https://polyformproject.org/licenses/' + suffix.toLowerCase() + '/' + version.trim(),
+    TITLE: 'Polyform ' + suffix + ' License ' + version
+  }
+  options.forEach(function (code) { view[code] = true })
   var fileName = path.join(
     __dirname, 'build', 'Polyform-' + suffix + '.md'
   )
+  // Render Mustache template.
+  var lines = mustache.render(source, view)
+    .split('\n')
+    .filter(function (line) {
+      return line.trim().length !== 0
+    })
   var stream = fs.createWriteStream(fileName)
-  writeVariant(stream, suffix, options)
+  writeVariant(lines, stream, suffix, options)
 })
 
-function writeVariant (stream, suffix, options) {
-  var skipContent = false
+function writeVariant (lines, stream, suffix, options) {
   // Pipe through fmt -65 -u.
   var fmt = childProcess.spawn('fmt', ['-65', '-u'])
   fmt.stdout.pipe(stream)
   var input = fmt.stdin
-  contentLines.forEach(function (line) {
+  lines.forEach(function (line) {
     if (line.startsWith('# ')) {
-      input.write(
-        '# Polyform ' + suffix + ' License ' + version
-      )
-    } else if (line.includes('{License URL}')) {
-      input.write('\n\n')
-      if (version.toLowerCase().includes('draft')) {
-        input.write('https://github.com/polyformproject/polyform-licenses/')
-      } else {
-        input.write(
-          'https://polyformproject.org/licenses/' +
-          suffix.toLowerCase() +
-          '/' + version.trim()
-        )
-      }
-    } else if (line.startsWith('## ')) {
-      skipContent = false
-      // If the <h2> has a two-letter code...
-      var match = /^## ([A-Z]{2}): (.+)$/.exec(line)
-      if (match) {
-        var code = match[1]
-        var heading = match[2]
-        // ... if it's part of the variant, include it.
-        if (options.includes(code)) {
-          input.write('\n\n## ' + heading)
-        // ... otherwise skip both the heading and th
-        // text that follows.
-        } else {
-          skipContent = true
-        }
-      // If the heading does not have a two-letter code,
-      // write it out.
-      } else {
-        input.write('\n\n' + line)
-      }
+      input.write(line)
     } else {
-      if (!skipContent) input.write('\n\n' + line)
+      input.write('\n\n' + line)
     }
   })
   input.end('\n')

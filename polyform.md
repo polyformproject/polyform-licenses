@@ -1,6 +1,6 @@
-# Polyform Project License Language
+# {{{TITLE}}}
 
-{License URL}
+<{{{URL}}}>
 
 ## Acceptance
 
@@ -10,19 +10,25 @@ In order to get any license under these terms, you must agree to them as both st
 
 The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
 
-## DL: Distribution License
+{{#DL}}
+## Distribution License
 
 The licensor grants you an additional copyright license to distribute copies of the software.  If these terms grant you an additional license to make changes and new works, your license to distribute covers distributing your changes and new works.  However, if these terms allow you to make changes and new works for internal business operations, your license to distribute does not cover distributing changes and new works made for that purpose.
+{{/DL}}
 
-## NO: Notices
+{{#NO}}
+## Notices
 
 You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
 
 > Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+{{/NO}}
 
-## CL: Changes and New Works License
+{{#CL}}
+## Changes and New Works License
 
 The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+{{/CL}}
 
 ## Patent License
 
@@ -44,21 +50,29 @@ Use by any charitable organization, educational institution, public research org
 
 You may have "fair use" rights for the software under the law.  These terms do not limit them.
 
-## SB: Small Business
+{{#SB}}
+## Small Business
 
 Use of the software for the benefit of your company is use for a permitted purpose if your company has less than 100 total individuals working as employees and independent contractors, and less than 1,000,000 USD (2019) total revenue in the prior tax year.  Adjust this revenue threshold for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
+{{/SB}}
 
-## FT: Free Trial
+{{#FT}}
+## Free Trial
 
 Use to evaluate whether the software suits a particular application for less than 32 consecutive calendar days, on behalf of you or your company, is use for a permitted purpose.
+{{/FT}}
 
-## IB: Internal Business Use
+{{#IB}}
+## Internal Business Use
 
 Use of the software for the internal business operations of you and your company is use for a permitted purpose.
+{{/IB}}
 
-## NX: Noncompete
+{{#NX}}
+## Noncompete
 
 It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
+{{/NX}}
 
 ## No Other Rights
 
