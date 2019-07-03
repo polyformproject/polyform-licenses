@@ -1,6 +1,6 @@
-# {{{TITLE}}}
+# Polyform Small License {{{version}}}
 
-<{{{URL}}}>
+{{{url}}}
 
 ## Acceptance
 
@@ -8,27 +8,21 @@ In order to get any license under these terms, you must agree to them as both st
 
 ## Copyright License
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose{{#CL}}.  {{#DL}}However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).{{/DL}}{{^DL}}However, you may only make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license), and you may not distribute the software.{{/DL}}{{/CL}}{{^CL}}{{#DL}}.  However, you may only distribute the software according to [Distribution License](#distribution-license), and you may not make changes or new works based on the software.{{/DL}}{{^DL}}, other than distributing the software or making changes or new works based on the software.{{/DL}}{{/CL}}
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
 
-{{#DL}}
 ## Distribution License
 
-The licensor grants you an additional copyright license to distribute copies of the software.{{#CL}}  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).{{/CL}}{{#IB}}  However, your license to distribute does not cover distributing changes or new works permitted by [Internal Business Use](#internal-business-use).{{/IB}}
-{{/DL}}
+The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
 
-{{#NO}}
 ## Notices
 
 You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
 
 > Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
-{{/NO}}
 
-{{#CL}}
 ## Changes and New Works License
 
 The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
-{{/CL}}
 
 ## Patent License
 
@@ -48,31 +42,11 @@ Use by any charitable organization, educational institution, public research org
 
 ## Fair Use
 
-You may have "fair use" rights for the software under the law.  These terms do not limit them.
+You may have "fair use" rights for the software under the law. These terms do not limit them.
 
-{{#SB}}
 ## Small Business
 
 Use of the software for the benefit of your company is use for a permitted purpose if your company has less than 100 total individuals working as employees and independent contractors, and less than 1,000,000 USD (2019) total revenue in the prior tax year.  Adjust this revenue threshold for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
-{{/SB}}
-
-{{#FT}}
-## Free Trial
-
-Use to evaluate whether the software suits a particular application for less than 32 consecutive calendar days, on behalf of you or your company, is use for a permitted purpose.
-{{/FT}}
-
-{{#IB}}
-## Internal Business Use
-
-Use of the software for the internal business operations of you and your company is use for a permitted purpose.
-{{/IB}}
-
-{{#NX}}
-## Noncompete
-
-It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
-{{/NX}}
 
 ## No Other Rights
 
@@ -80,7 +54,7 @@ These terms do not allow you to sublicense or transfer any of your licenses to a
 
 ## Patent Defense
 
-If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately.  If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
 
 ## Violations
 

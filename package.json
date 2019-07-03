@@ -1,6 +1,0 @@
-{
-  "private": true,
-  "devDependencies": {
-    "mustache": "^3.0.1"
-  }
-}
