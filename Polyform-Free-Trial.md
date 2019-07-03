@@ -1,4 +1,4 @@
-# Polyform Trial License {{{version}}}
+# Polyform Free Trial License {{{version}}}
 
 {{{url}}}
 
