@@ -15,13 +15,13 @@ Polyform's base license will be a limited, noncommercial license.  Variants will
 | [Polyform-Strict]         | Yes           |        |            |       |          |     |            |
 | [Polyform-Noncommercial]  | Yes           | Yes    | Yes        |       |          |     |            |
 | [Polyform-Free-Trial]     |               | Yes    |            | Yes   |          |     |            |
-| [Polyform-Internal]       |               | Yes    |            |       | Yes      |     |            |
+| [Polyform-Internal-Use]   |               | Yes    |            |       | Yes      |     |            |
 | [Polyform-Small-Business] |               | Yes    | Yes        |       |          | Yes |            |
 
 [Polyform-Strict]: ./Polyform-Strict.md
 [Polyform-Noncommercial]: ./Polyform-Noncommercial.md
 [Polyform-Free-Trial]: ./Polyform-Free-Trial.md
-[Polyform-Internal]: ./Polyform-Internal.md
+[Polyform-Internal-Use]: ./Polyform-Internal-Use.md
 [Polyform-Small-Business]: ./Polyform-Small-Business.md
 
 ## License
