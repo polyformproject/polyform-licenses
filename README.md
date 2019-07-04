@@ -10,14 +10,14 @@ Much as [Creative Commons](https://creativecommons.org) offers a [suite of licen
 
 Polyform's base license will be a limited, noncommercial license.  Variants will add sections to that base license:
 
-| Variant                  | Changes | Distrib. | Trial | Internal | SMB | Noncomp. |
-| ------------------------ | ------- | -------- | ----- | -------- | --- | -------- |
-| [Polyform-Strict]        |         |          |       |          |     |          |
-| [Polyform-Noncommercial] | Yes     | Yes      |       |          |     |          |
-| [Polyform-Free-Trial]    | Yes     |          | Yes   |          |     |          |
-| [Polyform-Internal]      | Yes     |          |       | Yes      |     |          |
-| [Polyform-Small]         | Yes     | Yes      |       |          | Yes |          |
-| [Polyform-Noncompete]    | Yes     | Yes      |       |          |     | Yes      |
+| Variant                  | Noncommercial | Change | Distribute | Trial | Internal | SMB | Noncompete |
+| ------------------------ | ------------- | ------ | ---------- | ----- | -------- | --- | ---------- |
+| [Polyform-Strict]        | Yes           |        |            |       |          |     |            |
+| [Polyform-Noncommercial] | Yes           | Yes    | Yes        |       |          |     |            |
+| [Polyform-Free-Trial]    |               | Yes    |            | Yes   |          |     |            |
+| [Polyform-Internal]      |               | Yes    |            |       | Yes      |     |            |
+| [Polyform-Small]         |               | Yes    | Yes        |       |          | Yes |            |
+| [Polyform-Noncompete]    |               | Yes    | Yes        |       |          |     | Yes        |
 
 [Polyform-Strict]: ./Polyform-Strict.md
 [Polyform-Noncommercial]: ./Polyform-Noncommercial.md
