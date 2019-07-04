@@ -1,6 +1,6 @@
-# Polyform Internal License {{{version}}}
+# Polyform Internal License Development Draft
 
-{{{url}}}
+<https://github.com/polyformproject/polyform-licenses/>
 
 ## Acceptance
 

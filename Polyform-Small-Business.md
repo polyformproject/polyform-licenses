@@ -1,6 +1,6 @@
-# Polyform Small License {{{version}}}
+# Polyform Small License Development Draft
 
-{{{url}}}
+<https://github.com/polyformproject/polyform-licenses/>
 
 ## Acceptance
 

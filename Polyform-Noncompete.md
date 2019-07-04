@@ -1,6 +1,6 @@
-# Polyform Noncompete License {{{version}}}
+# Polyform Noncompete License Development Draft
 
-{{{url}}}
+<https://github.com/polyformproject/polyform-licenses/>
 
 ## Acceptance
 
