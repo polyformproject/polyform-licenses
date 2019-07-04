@@ -4,13 +4,11 @@ source text for [Polyform Project](https://polyformproject.org) licenses
 
 The Polyform Project is a group of experienced licensing lawyers and technologists developing simple, standardized, plain-language software source code licenses.  Polyform aims to fill gaps in the menu of standardized software licenses, like non-commercial, trial, and small-business-only terms.
 
-## Variants
+## Licenses
 
-Much as [Creative Commons](https://creativecommons.org) offers a [suite of licenses](https://creativecommons.org/licenses/#licenses), Polyform will offer a number of variants.
+Much as [Creative Commons](https://creativecommons.org) offers a [suite of licenses](https://creativecommons.org/licenses/#licenses), Polyform will offer a number of variations.
 
-Polyform's base license will be a limited, noncommercial license.  Variants will add sections to that base license:
-
-| Variant                   | Change | Distribute | Noncommercial | Trial | Internal | SMB |
+| License                   | Change | Distribute | Noncommercial | Trial | Internal | SMB |
 | ------------------------- | ------ | ---------- | ------------- | ----- | -------- | --- |
 | [Polyform-Strict]         |        |            | Yes           |       |          |     |
 | [Polyform-Noncommercial]  | Yes    | Yes        | Yes           |       |          |     |
