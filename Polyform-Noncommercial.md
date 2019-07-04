@@ -1,6 +1,6 @@
-# Polyform Noncommercial License Development Draft
+# Polyform Noncommercial License 1.0.0
 
-<https://github.com/polyformproject/polyform-licenses/>
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
 ## Acceptance
 
