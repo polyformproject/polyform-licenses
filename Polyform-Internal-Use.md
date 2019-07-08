@@ -1,4 +1,4 @@
-# Polyform Internal License Development Draft
+# Polyform Internal Use License Development Draft
 
 <https://github.com/polyformproject/polyform-licenses/>
 
