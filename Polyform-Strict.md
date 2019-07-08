@@ -1,6 +1,6 @@
-# Polyform Strict License Development Draft
+# Polyform Strict License 1.0.0
 
-<https://github.com/polyformproject/polyform-licenses/>
+<https://polyformproject.org/licenses/strict/1.0.0>
 
 ## Acceptance
 
