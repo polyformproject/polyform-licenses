@@ -1,4 +1,4 @@
-# Polyform Small License Development Draft
+# Polyform Small Business License Development Draft
 
 <https://github.com/polyformproject/polyform-licenses/>
 
