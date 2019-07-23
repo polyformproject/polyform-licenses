@@ -8,19 +8,21 @@ The Polyform Project is a group of experienced licensing lawyers and technologis
 
 Much as [Creative Commons](https://creativecommons.org) offers a [suite of licenses](https://creativecommons.org/licenses/#licenses), Polyform will offer a number of variations.
 
-| License                   | Use | Change | Distribute | Noncommercial | Trial | Internal | SMB |
-| ------------------------- | --- | ------ | ---------- | ------------- | ----- | -------- | --- |
-| [Polyform-Strict]         | Yes |        |            | Yes           |       |          |     |
-| [Polyform-Noncommercial]  | Yes | Yes    | Yes        | Yes           |       |          |     |
-| [Polyform-Free-Trial]     | Yes | Yes    |            |               | Yes   |          |     |
-| [Polyform-Internal-Use]   | Yes | Yes    |            |               |       | Yes      |     |
-| [Polyform-Small-Business] | Yes | Yes    | Yes        |               |       |          | Yes |
+| License                   | Use | Change | Distribute | Noncommercial | Trial | Internal | SMB | Noncompeting |
+| ------------------------- | --- | ------ | ---------- | ------------- | ----- | -------- | --- | ------------ |
+| [Polyform-Strict]         | Yes |        |            | Yes           |       |          |     |              |
+| [Polyform-Noncommercial]  | Yes | Yes    | Yes        | Yes           |       |          |     |              |
+| [Polyform-Free-Trial]     | Yes | Yes    |            |               | Yes   |          |     |              |
+| [Polyform-Internal-Use]   | Yes | Yes    |            |               |       | Yes      |     |              |
+| [Polyform-Small-Business] | Yes | Yes    | Yes        |               |       |          | Yes |              |
+| [Polyform-Noncompete]     | Yes | Yes    | Yes        |               |       |          |     | Yes          |
 
 [Polyform-Strict]: ./Polyform-Strict.md
 [Polyform-Noncommercial]: ./Polyform-Noncommercial.md
 [Polyform-Free-Trial]: ./Polyform-Free-Trial.md
 [Polyform-Internal-Use]: ./Polyform-Internal-Use.md
 [Polyform-Small-Business]: ./Polyform-Small-Business.md
+[Polyform-Noncompete]: ./Polyform-Small-Noncompete.md
 
 ## License
 
