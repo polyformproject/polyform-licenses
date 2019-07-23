@@ -46,7 +46,11 @@ You may have "fair use" rights for the software under the law. These terms do no
 
 ## Noncompete
 
-It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
+Providing any offering that does not compete with the software is a permitted purpose.  An offering competes with the software if it functions as an economic substitute for the software, for at least some potential users, even if provided free of charge.
+
+## Prior Uses
+
+If you are using the software to provide an offering that does not compete with the software, and the licensor releases a new version of the software under these terms that brings your offering into competition with the software, your permission to use prior versions of the software does not change.
 
 ## No Other Rights
 
