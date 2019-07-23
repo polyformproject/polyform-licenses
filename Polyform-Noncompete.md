@@ -34,7 +34,7 @@ You may have "fair use" rights for the software under the law. These terms do no
 
 ## Noncompete
 
-Providing any offering that does not compete with the software is a permitted purpose.  An offering competes with the software if it functions as an economic substitute for the software, for at least some potential users, even if provided free of charge.
+Other than providing any offering that competes with the software, any purpose is a permitted purpose.  An offering competes with the software if it functions as an economic substitute for the software, for at least some potential users, even if provided free of charge.
 
 ## Prior Uses
 
