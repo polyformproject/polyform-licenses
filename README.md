@@ -22,6 +22,8 @@ Much as [Creative Commons](https://creativecommons.org) offers a [suite of licen
 [Polyform-Internal-Use]: ./Polyform-Internal-Use.md
 [Polyform-Small-Business]: ./Polyform-Small-Business.md
 
+The `master` branch contains drafts of ongoing work on [each license](https://polyformproject.org/licenses/). Released versions are tagged in this repo, with GitHub [releases](https://github.com/polyformproject/polyform-licenses/releases).
+
 ## License
 
 Each contributor licenses you to do everything with Polyform licenses that would otherwise infringe that contributor's copyright in it.
