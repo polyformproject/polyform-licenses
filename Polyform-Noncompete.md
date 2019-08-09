@@ -34,7 +34,11 @@ You may have "fair use" rights for the software under the law. These terms do no
 
 ## Noncompete
 
-Any purpose is a permitted purpose, other than providing any good or service that competes with the software.  A good or service competes with the software if it functions as an economic substitute for the software, for at least some potential users, even if provided free of charge.
+Any purpose is a permitted purpose, except for providing any good or service that competes with the software.
+
+## Competing Uses
+
+A good or service competes with the software if it provides so much of the software's functionality to users, and so little additional functionality of a different kind, that it becomes a practical substitute for the software.  The good or service competes even if it offers the functionality of the software as a different kind of software: application as service, plugin as library, framework as development tool, interpreter as operating system, and so on.
 
 ## Prior Uses
 
