@@ -38,7 +38,7 @@ Any purpose is a permitted purpose, except for providing any good or service tha
 
 ## Competing Uses
 
-A good or service competes with the software if it provides so much of the software's functionality to users, and so little additional functionality of a different kind, that it becomes a practical substitute for the software for at least some potential users.  A good or service competes even if it offers the functionality of the software as a different kind of software: application as service, library as plugin, framework as development tool, interpreter as operating system, and so on, or for a different language or platform.
+A good or service competes with the software if it provides so much of the software's functionality to users, and so little additional functionality of a different kind, that it becomes a practical substitute for the software for at least some potential users.  A good or service competes even if it offers the functionality of the software as a different kind of software: application as service, library as plugin, framework as development tool, interpreter as operating system, and so on, or for a different language or platform.  If you market a good or service as a practical substitute for the software, it competes with the software under these terms.
 
 ## Prior Uses
 
