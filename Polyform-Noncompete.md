@@ -28,25 +28,21 @@ The licensor grants you an additional copyright license to make changes and new 
 
 The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
-## Noncommercial Purposes
-
-Any noncommercial purpose is a permitted purpose.
-
-## Personal Uses
-
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
-
-## Noncommercial Organizations
-
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
-
 ## Fair Use
 
 You may have "fair use" rights for the software under the law. These terms do not limit them.
 
 ## Noncompete
 
-It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
+Any purpose is a permitted purpose, except for providing any good or service that competes with the software or any good or service the licensor provides using the software.
+
+## Competing Uses
+
+Goods and services compete even when they take different forms---application and service, library and plugin, framework and development tool, interpreter and operating system, and so on---or target different programming languages or computing platforms.  If you market a good or service as a practical substitute for the software, another product, or a service, it competes under these terms.
+
+## Prior Uses
+
+If you are using the software to provide a good or service that does not compete, and the licensor either releases a new version of the software or begins providing a good or service using the software that brings your good or service into competition, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
 
 ## No Other Rights
 
