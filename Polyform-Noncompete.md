@@ -34,7 +34,7 @@ You may have "fair use" rights for the software under the law. These terms do no
 
 ## Noncompete
 
-Any purpose is a permitted purpose, except for providing any good or service that competes with the software or any good or service the licensor provides using the software.
+Any purpose is a permitted purpose, except for providing any good or service that competes with the software or any other good or service the licensor provides using the software.
 
 ## Competing Uses
 
