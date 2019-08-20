@@ -42,7 +42,7 @@ Goods and services compete even when they provide their functionality through di
 
 ## Prior Uses
 
-If you are using the software to provide a good or service that does not compete, and the licensor either releases a new version of the software or begins providing a good or service using the software that brings your good or service into competition, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
+If you are using the software to provide a good or service that does not compete, and the licensor either releases a new version of the software or begins providing a good or service using the software that brings your good or service into competition, you may continue using versions of the software available under these terms at that time to provide your competing good or service, but not any later versions made available under these terms.
 
 ## No Other Rights
 
