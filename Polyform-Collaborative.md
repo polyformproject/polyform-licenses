@@ -44,7 +44,7 @@ Use by any charitable organization, educational institution, public research org
 
 You may have "fair use" rights for the software under the law. These terms do not limit them.
 
-## Noncompete
+## Collaboration
 
 It is not a permitted purpose to provide any offering that competes with the software or any other offering the licensor provides using the software.  However, if you are using the software to provide an offering that does not compete, and the licensor begins providing a competing offering using the software, you may continue using versions of the software available under these terms at that time to provide your offering, but not any later versions made available under these terms.
 
