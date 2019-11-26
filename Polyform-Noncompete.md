@@ -50,6 +50,10 @@ You may begin using the software to compete with a good or service that the lice
 
 > Licensor Line of Business: YoyodyneCMS Content Management System (http://example.com/cms)
 
+## Business Transactions
+
+If the licensor sells a line of business using the software to provide a good or service to another company, the buyer can enforce [Noncompete](#noncompete) against competing uses.
+
 ## No Other Rights
 
 These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
