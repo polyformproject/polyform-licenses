@@ -44,6 +44,12 @@ Goods and services compete even when they provide their functionality through di
 
 If you are using the software to provide a good or service that does not compete, but the licensor brings your good or service into competition by providing a new version of the software or another good or service using the software, you may continue using versions of the software available under these terms beforehand to provide your competing good or service, but not any later versions.
 
+## Discontinued Uses
+
+You may begin using the software to compete with a good or service that the licensor stops providing, unless the licensor documents that line of business with a plain-text line beginning with `Licensor Line of Business:` provided with the software.  For example:
+
+> Licensor Line of Business: YoyodyneCMS Content Management System (http://example.com/cms)
+
 ## No Other Rights
 
 These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
