@@ -34,15 +34,11 @@ You may have "fair use" rights for the software under the law. These terms do no
 
 ## Noncompete
 
-Any purpose is a permitted purpose, except for providing any good or service that competes with the software or any other good or service the licensor provides using the software.
+Any purpose is a permitted purpose, except for providing to others any product that competes with the software.
 
-## Competing Uses
+## Competition
 
-Goods and services compete even when they provide their functionality through different kinds of interfaces or for different platforms.  Applications can compete with services, libraries with plugins, frameworks with development tools, and so on, even if they're written in different programming languages, or for different computer architectures.  Moreover, goods and services compete even when provided free of charge.  Finally, if you market a good or service as a practical substitute for the software, another product, or a service, it definitely competes under these terms.
-
-## Prior Uses
-
-If you are using the software to provide a good or service that does not compete, but the licensor brings your good or service into competition by providing a new version of the software or another good or service using the software, you may continue using versions of the software available under these terms beforehand to provide your competing good or service, but not any later versions.
+If you use this software to market a product as a substitute for the functionality or value of the software, it competes with the software. A product may compete regardless how it is designed or deployed. For example, a product may compete even if it provides its functionality via any kind of interface (including services, libraries or plug-ins), even if it is ported to a different platforms or programming languages, and even if it is provided free of charge.  
 
 ## No Other Rights
 
@@ -63,6 +59,8 @@ The first time you are notified in writing that you have violated any of these t
 ## Definitions
 
 The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+A **product** can be a good or service, or a combination of them.
 
 **You** refers to the individual or entity agreeing to these terms.
 
