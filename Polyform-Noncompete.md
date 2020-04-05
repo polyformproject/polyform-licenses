@@ -28,10 +28,6 @@ The licensor grants you an additional copyright license to make changes and new 
 
 The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
-## Fair Use
-
-You may have "fair use" rights for the software under the law. These terms do not limit them.
-
 ## Noncompete
 
 Any purpose is a permitted purpose, except for providing to others any product that competes with the software.
@@ -49,6 +45,10 @@ You may begin using the software to compete with a good or service that the lice
 ## Business Transactions
 
 If the licensor sells a line of business using the software to provide a good or service to another company, the buyer can enforce [Noncompete](#noncompete) against competing uses.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the law. These terms do not limit them.
 
 ## No Other Rights
 
