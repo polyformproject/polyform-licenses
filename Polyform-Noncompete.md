@@ -30,7 +30,7 @@ The licensor grants you a patent license for the software that covers patent cla
 
 ## Noncompete
 
-Any purpose is a permitted purpose, except for providing to others any product that competes with the software.
+Any purpose is a permitted purpose, except for providing any product that competes with the software to others.
 
 ## Competition
 
