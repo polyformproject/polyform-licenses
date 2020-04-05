@@ -46,7 +46,7 @@ You may begin using the software to compete with a product or service that the l
 
 > Licensor Line of Business: YoyodyneCMS Content Management System (http://example.com/cms)
 
-## Business Transactions
+## Sales of Business
 
 If the licensor sells a line of business using the software to provide a product to another company, the buyer can enforce [Noncompete](#noncompete).
 
