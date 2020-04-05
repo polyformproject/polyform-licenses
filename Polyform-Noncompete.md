@@ -40,6 +40,16 @@ Any purpose is a permitted purpose, except for providing to others any product t
 
 If you use this software to market a product as a substitute for the functionality or value of the software, it competes with the software. A product may compete regardless how it is designed or deployed. For example, a product may compete even if it provides its functionality via any kind of interface (including services, libraries or plug-ins), even if it is ported to a different platforms or programming languages, and even if it is provided free of charge.  
 
+## Discontinued Uses
+
+You may begin using the software to compete with a good or service that the licensor stops providing, unless the licensor documents that line of business with a plain-text line beginning with `Licensor Line of Business:` provided with the software.  For example:
+
+> Licensor Line of Business: YoyodyneCMS Content Management System (http://example.com/cms)
+
+## Business Transactions
+
+If the licensor sells a line of business using the software to provide a good or service to another company, the buyer can enforce [Noncompete](#noncompete) against competing uses.
+
 ## No Other Rights
 
 These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
