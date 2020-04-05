@@ -38,7 +38,7 @@ If you use this software to market a product as a substitute for the functionali
 
 ## Discontinued Uses
 
-You may begin using the software to compete with a good or service that the licensor stops providing, unless the licensor documents that line of business with a plain-text line beginning with `Licensor Line of Business:` provided with the software.  For example:
+You may begin using the software to compete with a product that the licensor stops providing, unless the licensor documents that line of business with a plain-text line beginning with `Licensor Line of Business:` provided with the software.  For example:
 
 > Licensor Line of Business: YoyodyneCMS Content Management System (http://example.com/cms)
 
