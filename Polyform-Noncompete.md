@@ -34,7 +34,7 @@ Any purpose is a permitted purpose, except for providing any product that compet
 
 ## Competition
 
-If you use this software to market a product as a substitute for the functionality or value of the software, it competes with the software. A product may compete regardless of how it is designed or deployed. A product may compete even if it provides its functionality via a different kind of interface, such as a service, library or plug-in, even if it is uses a different platform or programming language, and even if it is provided free of charge.  
+If you use this software to market a product as a substitute for the functionality or value of the software, it competes with the software. A product may compete regardless of how it is designed or deployed. A product may compete even if it provides its functionality via a different kind of interface, such as a service, library or plug-in, even if it is uses a different platform or programming language, and even if it is provided free of charge.
 
 ## Discontinued Uses
 
