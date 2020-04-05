@@ -36,7 +36,7 @@ Any purpose is a permitted purpose, except for providing any good or service tha
 
 Goods and services compete even when they provide functionality through different kinds of interfaces or for different technical platforms.  Applications can compete with services, libraries with plugins, frameworks with development tools, and so on, even if they're written in different programming languages or for different computer architectures.  Goods and services compete even when provided free of charge.  If you market a good or service as a practical substitute for the software, another product, or a service, it definitely competes.
 
-## Prior Uses
+## New Releases
 
 If you are using the software to provide a good or service that does not compete, but the licensor brings your good or service into competition by providing a new version of the software or another good or service using the software, you may continue using versions of the software available under these terms beforehand to provide your competing good or service, but not any later versions.
 
