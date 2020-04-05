@@ -1,4 +1,4 @@
-# Polyform Noncompete License Development Draft
+# Polyform Licensor Noncompete License Development Draft
 
 <https://github.com/polyformproject/polyform-licenses/>
 
