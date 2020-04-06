@@ -44,15 +44,15 @@ The first time you are notified in writing that you have violated any of these t
 
 ## Definitions
 
-The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+The **licensor** is the individual or organization offering these terms, and the **software** is the software the licensor makes available under these terms.
 
-**You** refers to the individual or entity agreeing to these terms.
+**You** refers to the individual or organization agreeing to these terms.
 
 **Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all its affiliates.
 
 **Affiliates** means the other organizations than an organization has control over, is under the control of, or is under common control with.
 
-**Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+**Control** means ownership of substantially all the assets of an organization, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
 
 
 **Your licenses** are all the licenses granted to you for the software under these terms.
