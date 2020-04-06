@@ -30,7 +30,7 @@ The licensor grants you a patent license for the software that covers patent cla
 
 ## Noncompete
 
-Any purpose is a permitted purpose, except for providing any product that competes with the software or any product the licensor provides using the software.
+Any purpose is a permitted purpose, except for providing any product that competes with the software or any product the licensor or any of its affiliates provides using the software.
 
 ## Competition
 
@@ -38,17 +38,17 @@ Goods and services compete even when they provide functionality through differen
 
 ## New Offerings
 
-If you are using the software to provide a product that does not compete, but the licensor brings your product into competition by providing a new version of the software or another product using the software, you may continue using versions of the software available under these terms beforehand to provide your competing product, but not any later versions.
+If you are using the software to provide a product that does not compete, but the licensor or any of its affiliates brings your product into competition by providing a new version of the software or another product using the software, you may continue using versions of the software available under these terms beforehand to provide your competing product, but not any later versions.
 
 ## Discontinued Offerings
 
-You may begin using the software to compete with a product or service that the licensor has stopped providing, unless the licensor includes a plain-text line beginning with `Licensor Line of Business:` with the software that mentions that line of business.  For example:
+You may begin using the software to compete with a product or service that the licensor or any of its affiliates has stopped providing, unless the licensor includes a plain-text line beginning with `Licensor Line of Business:` with the software that mentions that line of business.  For example:
 
 > Licensor Line of Business: YoyodyneCMS Content Management System (http://example.com/cms)
 
 ## Sales of Business
 
-If the licensor sells a line of business developing the software or using the software to provide a product, the buyer can also enforce [Noncompete](#noncompete) for that product.
+If the licensor or any of its affiliates sells a line of business developing the software or using the software to provide a product, the buyer can also enforce [Noncompete](#noncompete) for that product.
 
 ## Fair Use
 
