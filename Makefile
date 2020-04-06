@@ -6,9 +6,14 @@ all: $(targets)
 build/Polyform-%.md: Polyform-%.md | build
 	fmt -65 -u < $< > $@
 
-pdfs: $(addprefix build/,$(variants:.md=.pdf))
+pdf: $(addprefix build/,$(variants:.md=.pdf))
 
 build/%.pdf: build/%.md | build
+	pandoc -o $@ $<
+
+docx: $(addprefix build/,$(variants:.md=.docx))
+
+build/%.docx: build/%.md | build
 	pandoc -o $@ $<
 
 build:
