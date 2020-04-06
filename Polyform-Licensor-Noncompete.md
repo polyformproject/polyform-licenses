@@ -30,15 +30,15 @@ The licensor grants you a patent license for the software that covers patent cla
 
 ## Noncompete
 
-Any purpose is a permitted purpose, except for providing any good or service that competes with the software or any good or service the licensor provides using the software.
+Any purpose is a permitted purpose, except for providing any product that competes with the software or any product the licensor provides using the software.
 
 ## Competition
 
-Goods and services compete even when they provide functionality through different kinds of interfaces or for different technical platforms.  Applications can compete with services, libraries with plugins, frameworks with development tools, and so on, even if they're written in different programming languages or for different computer architectures.  Goods and services compete even when provided free of charge.  If you market a good or service as a practical substitute for the software, another product, or a service, it definitely competes.
+Goods and services compete even when they provide functionality through different kinds of interfaces or for different technical platforms.  Applications can compete with services, libraries with plugins, frameworks with development tools, and so on, even if they're written in different programming languages or for different computer architectures.  Goods and services compete even when provided free of charge.  If you market a product as a practical substitute for the software or another product, it definitely competes.
 
 ## New Offerings
 
-If you are using the software to provide a good or service that does not compete, but the licensor brings your good or service into competition by providing a new version of the software or another good or service using the software, you may continue using versions of the software available under these terms beforehand to provide your competing good or service, but not any later versions.
+If you are using the software to provide a product that does not compete, but the licensor brings your product into competition by providing a new version of the software or another product using the software, you may continue using versions of the software available under these terms beforehand to provide your competing product, but not any later versions.
 
 ## Discontinued Offerings
 
@@ -73,6 +73,8 @@ The first time you are notified in writing that you have violated any of these t
 ## Definitions
 
 The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+A **product** can be a good or service, or a combination of them.
 
 **You** refers to the individual or entity agreeing to these terms.
 
