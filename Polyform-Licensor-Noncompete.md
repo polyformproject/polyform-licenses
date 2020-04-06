@@ -48,7 +48,7 @@ You may begin using the software to compete with a product or service that the l
 
 ## Sales of Business
 
-If the licensor sells a line of business developing the software or using the software to provide a product, the buyer can also enforce [Noncompete](#noncompete).
+If the licensor sells a line of business developing the software or using the software to provide a product, the buyer can also enforce [Noncompete](#noncompete) for that product.
 
 ## Fair Use
 
