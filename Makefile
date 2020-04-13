@@ -1,9 +1,9 @@
-variants=$(wildcard Polyform-*.md)
+variants=$(wildcard PolyForm-*.md)
 targets=$(addprefix build/,$(variants))
 
 all: $(targets)
 
-build/Polyform-%.md: Polyform-%.md | build
+build/PolyForm-%.md: PolyForm-%.md | build
 	fmt -65 -u < $< > $@
 
 pdf: $(addprefix build/,$(variants:.md=.pdf))
