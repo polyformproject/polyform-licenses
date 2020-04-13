@@ -1,4 +1,4 @@
-# Polyform Strict License Development Draft
+# PolyForm Strict License Development Draft
 
 <https://github.com/polyformproject/polyform-licenses/>
 

@@ -1,4 +1,4 @@
-# Polyform Noncommercial License Development Draft
+# PolyForm Noncommercial License Development Draft
 
 <https://github.com/polyformproject/polyform-licenses/>
 

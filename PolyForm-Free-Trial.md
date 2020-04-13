@@ -1,4 +1,4 @@
-# Polyform Free Trial License Development Draft
+# PolyForm Free Trial License Development Draft
 
 <https://github.com/polyformproject/polyform-licenses/>
 
