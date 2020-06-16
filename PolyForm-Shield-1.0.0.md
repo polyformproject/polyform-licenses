@@ -1,6 +1,6 @@
-# PolyForm Defensive License 1.0.0
+# PolyForm Shield License 1.0.0
 
-<https://polyformproject.org/licenses/defensive/1.0.0>
+<https://polyformproject.org/licenses/shield/1.0.0>
 
 ## Acceptance
 

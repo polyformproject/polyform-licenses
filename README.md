@@ -16,7 +16,7 @@ Much as [Creative Commons](https://creativecommons.org) offers a [suite of licen
 | [PolyForm-Internal-Use]   | Yes | Yes    |            |               |       | Yes      |     |
 | [PolyForm-Small-Business] | Yes | Yes    | Yes        |               |       |          | Yes |
 | [PolyForm-Perimeter]      | Yes | Yes    | Yes        |               |       |          |     | Project
-| [PolyForm-Defensive]      | Yes | Yes    | Yes        |               |       |          |     | Licensor
+| [PolyForm-Shield]         | Yes | Yes    | Yes        |               |       |          |     | Licensor
 
 [PolyForm-Strict]: ./PolyForm-Strict-1.0.0.md
 [PolyForm-Noncommercial]: ./PolyForm-Noncommercial-1.0.0.md
@@ -24,7 +24,7 @@ Much as [Creative Commons](https://creativecommons.org) offers a [suite of licen
 [PolyForm-Internal-Use]: ./PolyForm-Internal-Use-1.0.0.md
 [PolyForm-Small-Business]: ./PolyForm-Small-Business-1.0.0.md
 [PolyForm-Perimeter]: ./PolyForm-Perimeter-1.0.0.md
-[PolyForm-Defensive]: ./PolyForm-Defensive-1.0.0.md
+[PolyForm-Shield]: ./PolyForm-Shield-1.0.0.md
 
 ## License
 
