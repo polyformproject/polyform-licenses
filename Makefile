@@ -19,7 +19,19 @@ build/%.docx: build/%.md | build
 build:
 	mkdir -p $@
 
-.PHONY: clean
+.PHONY: clean diffs
 
 clean:
-	rm -rf build
+	rm -rf build diffs
+
+diffs:
+	rm -rf diffs
+	mkdir -p diffs
+	for from in PolyForm-*.md; do \
+		for to in PolyForm-*.md; do \
+			[ "$$from" = "$$to" ] && continue; \
+			fromstem="$${from#PolyForm-}"; \
+			tostem="$${to#PolyForm-}"; \
+			diff "$$from" "$$to" > "diffs/$${fromstem%-*.md} versus $${tostem%-*.md}.diff"; \
+		done \
+	done
